@@ -66,4 +66,4 @@ Organize the structure of the application so that there is a clearer distinction
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src="http://g.recordit.co/QeqZrFlq89.gif"/>
+<img src="http://g.recordit.co/QeqZrFlq89.gif">
