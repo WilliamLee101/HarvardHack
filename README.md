@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-2. [Wireframes](#Product Spec)
+2. [Product Spec](#Product Spec)
 
 ## Overview
 ### Description <br>
