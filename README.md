@@ -1,9 +1,5 @@
 # prof.io
 
-## Table of Contents
-1. [Overview](#Overview)
-2. [Product Spec](#Product Spec)
-
 ## Overview
 ### Description <br>
 Even though there are many websites such as LinkedIn and Handshake for allowing students to find internships, there aren't any comparable platforms for research opportunities. Our vision with prof.io is to enable students to more easily connect with research faculty and professors to outreach to students about their research.
