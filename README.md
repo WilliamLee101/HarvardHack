@@ -66,4 +66,4 @@ Organize the structure of the application so that there is a clearer distinction
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='https://recordit.co/QeqZrFlq89'/> <br>
+<img src='https://recordit.co/QeqZrFlq89' title='can type search' width='500' alt='can type search' /> <br>
