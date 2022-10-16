@@ -2,9 +2,7 @@
 
 ## Table of Contents
 1. [Overview](#Overview)
-1. [Product Spec](#Product-Spec)
-1. [Wireframes](#Wireframes)
-2. [Schema](#Schema)
+2. [Wireframes](#Wireframes)
 
 ## Overview
 ### Description <br>
@@ -32,10 +30,6 @@ We attempted to follow the traditional software development cycle from ideation 
 ### 5. What's next for prof.io <br>
 Organize the structure of the application so that there is a clearer distinction between the frontend and backend, and remodel the user interface to make it more appealing and responsive. We can also improve the machine learning model by analyzing real-world data.
 
-## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="https://imgur.com/a/YmeDI2q" width=600>
-
 ## Schema 
 
 ### Models
@@ -61,9 +55,3 @@ Organize the structure of the application so that there is a clearer distinction
     * (Create) Push data to firebase
 * Candidate Detail Page
     * (Create) Push data (application) to firebase
-
-
-## Video Walkthrough
-
-Here's a walkthrough of implemented user stories:
-<img src='http://g.recordit.co/QeqZrFlq89.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
