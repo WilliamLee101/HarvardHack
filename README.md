@@ -66,4 +66,4 @@ Organize the structure of the application so that there is a clearer distinction
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![Alt Text]("https://imgur.com/a/7QVpkyw")
+<img src="https://imgur.com/a/7QVpkyw" width="40" height="40" />
